@@ -1,5 +1,4 @@
-**Yes, absolutely!** Unlike the previous equation, this one has a linear term (-8x), which means you actually get to complete the square this time.
-While factoring out x is much faster for this specific problem, completing the square works perfectly and will yield the exact same answers. Here is how you do it step-by-step:
+Completing the square works perfectly and will yield the exact same answers. Here is how you do it step-by-step:
 ### The Step-by-Step Solution
 Our equation is:
 

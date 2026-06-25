@@ -6,8 +6,8 @@ Our equation is:
 To complete the square, the coefficient of x^2 must be 1. Divide the entire equation by 5:
 
 **Step 2: Find the value to add to both sides**
-Take the coefficient of the x term (which is -\frac{8}{5}), divide it by 2, and square the result:
- * **Half:** -\frac{8}{5} \div 2 = -\frac{4}{5}
+Take the coefficient of the x term (which is $$-/frac{8}{5}$$, divide it by 2, and square the result:
+ * **Half:** $$-\frac{8}{5} \div 2 = -\frac{4}{5}$$
  * **Squared:** \left(-\frac{4}{5}\right)^2 = \frac{16}{25}
 **Step 3: Complete the square**
 Add \frac{16}{25} to both sides of the equation:
